@@ -1,3 +1,7 @@
+/*
+* Created by Virat Singh, Eli Wrenn, and David Boatwright.
+*/
+
 #include "dialog.h"
 #include "game_board.h"
 #include <QApplication>
